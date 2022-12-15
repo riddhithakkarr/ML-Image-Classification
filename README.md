@@ -1,6 +1,6 @@
 # Image Classification
 
-This project is a demonstration of image classification using three different convolutional neural networks: VGG16, ResNet18, and DenseNet121.
+To develop an Artificial Intelligence-based etiology classification algorithm. This tool uses machine learning and deep learning algorithms to analyze high-resolution whole-slide digital pathology images of blood clots and classify the etiology to either CE (Cardioembolic - i.e. originating from the heart) or LAA (Large Artery Atherosclerosis- i.e., originating from the plaque in the inner lining of an artery).
 
 ## Requirements
 
